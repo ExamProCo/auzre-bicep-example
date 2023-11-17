@@ -1,0 +1,4 @@
+# Deploy an ARM template
+az deployment group create \
+--resource-group my-bicep-rg \
+--template-file main.json
