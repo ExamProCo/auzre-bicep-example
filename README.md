@@ -1,0 +1,1 @@
+# auzre-bicep-example
